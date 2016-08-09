@@ -1,5 +1,12 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
+#tl;dr
+- Don't be _"that"_ guy.
+- If someone is being _"that"_ guy, it is your responsibility to tell them or contact one of the moderators. 
+- If you are still being _"that"_ guy, you will be _asked_ to leave.
+
+# Code of Conduct
+
 **Quixota Slack Group** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
