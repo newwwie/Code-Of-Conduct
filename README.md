@@ -33,6 +33,8 @@ We condemn:
 * Anything that compromises people’s safety
 * Solicitation and any form of spam advertising
     * Recruiters / Hiring Managers have their own special channel #recruitment-board for members to opt in.
+    * Always disclose if you have a commercial interest as deception is not tolerated.
+    * We also condemn soliciting in direct messages or in channels where that information is not appropriate.
 
 **These things are NOT OK.**
 
