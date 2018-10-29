@@ -31,6 +31,8 @@ We condemn:
 * Stalking, doxxing, or publishing private information
 * Threats of harm, harassment
 * Anything that compromises people’s safety
+* Deception, undisclosed self promotion, solicitation
+* Use of member information to do any of the above in any other forum
 
 **These things are NOT OK.**
 
@@ -50,6 +52,7 @@ Failing to follow the community guidelines as described in this document carries
 * Josh Peak - @josh.peak
 * Cathy Lill - @cathyl 
 * Ian Belcher - @ianbelcher
+* Jonathan Milgate - @jonathan
 
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
