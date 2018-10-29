@@ -31,8 +31,8 @@ We condemn:
 * Stalking, doxxing, or publishing private information
 * Threats of harm, harassment
 * Anything that compromises people’s safety
-* Deception, undisclosed self promotion, solicitation
-* Use of member information to do any of the above in any other forum
+* Solicitation and any form of spam advertising
+    * Recruiters / Hiring Managers have their own special channel #recruitment-board for members to opt in.
 
 **These things are NOT OK.**
 
