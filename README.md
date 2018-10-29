@@ -31,6 +31,10 @@ We condemn:
 * Stalking, doxxing, or publishing private information
 * Threats of harm, harassment
 * Anything that compromises people’s safety
+* Solicitation and any form of spam advertising
+    * Recruiters / Hiring Managers have their own special channel #recruitment-board for members to opt in.
+    * Always disclose if you have a commercial interest as deception is not tolerated.
+    * We also condemn soliciting in direct messages or in channels where that information is not appropriate.
 
 **These things are NOT OK.**
 
@@ -50,6 +54,7 @@ Failing to follow the community guidelines as described in this document carries
 * Josh Peak - @josh.peak
 * Cathy Lill - @cathyl 
 * Ian Belcher - @ianbelcher
+* Jonathan Milgate - @jonathan
 
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
